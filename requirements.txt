@@ -3,6 +3,6 @@ pandas
 nltk
 urlextract 
 wordcloud
-collections
+Counter
 streamlit
 matplotlib
