@@ -1,7 +1,6 @@
 re
 pandas
 nltk
-nltk.download('vader_lexicon')
 urlextract 
 wordcloud
 collections
